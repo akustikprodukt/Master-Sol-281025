@@ -1,0 +1,5 @@
+{
+  "name": "Master-Sol Dashboard",
+  "description": "A real-time dashboard application with an integrated Solana trading bot. It features user management, a responsive dashboard, trading bot functionality, and an admin area for managing API data and system settings.",
+  "requestFramePermissions": []
+}
